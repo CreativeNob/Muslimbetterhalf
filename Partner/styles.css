@@ -1,0 +1,387 @@
+body {
+  margin: auto;
+  overflow-x: hidden;
+}
+
+body {
+  background-color: #ffff;
+}
+
+.container {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+
+img {
+  position: absolute;
+  width: 1700px;
+  height: 803px;
+}
+
+h4 {
+  position: relative;
+  width: 658px;
+  height: 132px;
+  margin-left: 172px;
+  padding-top: 69px;
+  font-family: Nunito;
+  font-size: 48px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.3px;
+  color: #ffffff;
+}
+
+.what {
+  width: 140px;
+  height: 30px;
+  background-color: #fff;
+  margin-top: 10px;
+  margin-left: 1102px;
+  position: relative;
+}
+
+.what p {
+  width: 120px;
+  height: 20px;
+  font-family: Nunito;
+  font-size: 15px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.09px;
+  color: #333333;
+  position: absolute;
+  top: 100%;
+  left: 30%;
+  right: 50%;
+  margin: -25px 0 0 -25px;
+}
+
+.social {
+  width: 227px;
+  height: 97px;
+  background-color: #ffffff;
+  margin-top: 28px;
+  margin-left: 1057px;
+  position: relative;
+}
+
+.social h1 {
+  width: 75px;
+  height: 49px;
+  font-family: Nunito;
+  font-size: 36px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.22px;
+  color: #192222;
+  position: absolute;
+  top: 35%;
+  left: 44%;
+  right: 40%;
+  margin: -25px 0 0 -25px;
+}
+
+.social p {
+  width: 152px;
+  height: 20px;
+  font-family: Nunito;
+  font-size: 15px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.09px;
+  color: #192222;
+  position: absolute;
+  top: 90%;
+  left: 29%;
+  right: 30%;
+  margin: -25px 0 0 -25px;
+}
+
+.countries {
+  width: 227px;
+  height: 97px;
+  background-color: #ffffff;
+  margin-top: 47px;
+  margin-left: 1057px;
+  position: relative;
+}
+
+.countries h1 {
+  width: 66px;
+  height: 49px;
+  font-family: Nunito;
+  font-size: 36px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.22px;
+  color: #192222;
+  position: absolute;
+  top: 39%;
+  left: 49%;
+  right: 40%;
+  margin: -25px 0 0 -25px;
+}
+
+.countries p {
+  width: 187px;
+  height: 20px;
+  font-family: Nunito;
+  font-size: 15px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.09px;
+  color: #192222;
+  position: absolute;
+  top: 90%;
+  left: 23%;
+  right: 30%;
+  margin: -25px 0 0 -25px;
+}
+
+.user {
+  width: 227px;
+  height: 97px;
+  background-color: #ffffff;
+  margin-top: 47px;
+  margin-left: 1057px;
+  position: relative;
+}
+.user h1 {
+  width: 53px;
+  height: 49px;
+  font-family: Nunito;
+  font-size: 36px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.22px;
+  color: #192222;
+  position: absolute;
+  top: 35%;
+  left: 49%;
+  right: 40%;
+  margin: -25px 0 0 -25px;
+}
+
+.user p {
+  width: 143px;
+  height: 20px;
+  font-family: Nunito;
+  font-size: 15px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.09px;
+  color: #192222;
+  position: absolute;
+  top: 90%;
+  left: 31%;
+  right: 30%;
+  margin: -25px 0 0 -25px;
+}
+
+.contain {
+  padding-top: 830px;
+  width: 1700px;
+  height: 830px;
+  border: solid 1px #979797;
+  background-color: #ffffff;
+}
+
+.contain .img-hands {
+  padding-top: 100px;
+  padding-left: 638px;
+  width: 630px;
+  height: 630px;
+  object-fit: contain;
+}
+
+.become-partner {
+  position: relative;
+  margin-left: 172px;
+  margin-top: 285px;
+  width: 598px;
+  height: 260px;
+  background-color: #ff689a;
+}
+
+.become-partner h1 {
+  width: 502px;
+  height: 66px;
+  font-family: Nunito;
+  font-size: 48px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.3px;
+  color: #ffffff;
+  position: absolute;
+  top: 27%;
+  left: 13%;
+  right: 40%;
+  margin: -25px 0 0 -25px;
+}
+
+.become-partner p {
+  width: 479px;
+  height: 64px;
+  font-family: Nunito;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.15px;
+  color: #ffffff;
+  position: absolute;
+  top: 60%;
+  left: 13%;
+  right: 30%;
+  margin: -25px 0 0 -25px;
+}
+
+#btn {
+  width: 197px;
+  height: 48px;
+  border-radius: 5px;
+  background-color: #2d3952;
+  margin-left: 172px;
+  margin-top: 50px;
+  border: none;
+  color: #ffffff;
+  font-family: Nunito;
+  font-size: 15px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.09px;
+}
+
+.footer {
+  padding-top: 1%;
+  width: 1700px;
+  height: 761px;
+  background-color: #ff689a;
+}
+
+.footer h1 {
+  margin-top: 100px;
+  margin-left: 172px;
+  width: 521px;
+  height: 66px;
+  font-family: Nunito;
+  font-size: 46px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.3px;
+  color: #ffffff;
+}
+
+.BLOOM {
+  width: 115px;
+  height: 44px;
+  object-fit: contain;
+  margin-left: 283px;
+  margin-top: 120px;
+}
+
+.Elite-singles {
+  width: 125px;
+  height: 84px;
+  object-fit: contain;
+  margin-left: 283px;
+  margin-top: 213px;
+}
+
+.World-singles {
+  width: 133px;
+  height: 53px;
+  object-fit: contain;
+  margin-left: 638px;
+  margin-top: 244px;
+}
+
+.Muslim-Service-UK {
+  width: 174px;
+  height: 52px;
+  object-fit: contain;
+  margin-left: 1000px;
+  margin-top: 245px;
+}
+
+.Rishta {
+  width: 125px;
+  height: 64px;
+  object-fit: contain;
+  margin-left: 1025px;
+  margin-top: 100px;
+}
+
+.islamic-marriage {
+  width: 191px;
+  height: 62px;
+  object-fit: contain;
+  margin-left: 616px;
+  margin-top: 102px;
+}
+
+#butn {
+  width: 197px;
+  height: 48px;
+  border-radius: 5px;
+  background-color: #2d3952;
+  font-family: Nunito;
+  font-size: 15px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.09px;
+  margin-left: 473px;
+  margin-top: 397px;
+  border: none;
+  color: #ffffff;
+}
+
+#buton {
+  width: 197px;
+  height: 48px;
+  border-radius: 5px;
+  background-color: #ffffff;
+  margin-left: 95px;
+  border: none;
+  font-size: 15px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.09px;
+  color: #2a3954;
+}
+.search-img {
+  width: 25px;
+  height: 25px;
+  object-fit: contain;
+  margin-right: 63px;
+  margin-top: 0px;
+}
