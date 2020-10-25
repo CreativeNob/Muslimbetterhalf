@@ -1,0 +1,171 @@
+* {
+  margin: auto;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Nunito;
+}
+
+body {
+  background-color: #ffff;
+  height: 1024px;
+}
+
+.log-and-texts {
+  width: 284.1px;
+  height: 26px;
+  object-fit: contain;
+  margin-left: 145px;
+  margin-top: 39px;
+}
+
+header {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+header ul {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  margin-top: 39px;
+  margin-right: 138px;
+}
+
+header ul li {
+  position: relative;
+  list-style: none;
+  margin-left: 60px;
+}
+
+header ul li a {
+  text-decoration: none;
+  color: #ff8960;
+}
+
+button {
+  width: 13em;
+  height: 2.5em;
+  font-family: Nunito;
+  color: white;
+  font-size: 15px;
+  border: 0.5px solid #ff8960;
+  background: #ffe;
+  background: linear-gradient(#ff8960, #ff62a5);
+  border-radius: 4px;
+}
+
+.img1 {
+  width: 585px;
+  height: 501px;
+  object-fit: contain;
+  margin-left: 172px;
+  margin-top: 140px;
+  position: absolute;
+}
+
+.sec h1 {
+  width: 188px;
+  height: 66px;
+  font-family: Nunito;
+  font-size: 48px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.3px;
+  color: #333333;
+  margin-left: 844px;
+  margin-top: 100px;
+}
+
+.sec p {
+  width: 420px;
+  height: 28px;
+  font-family: Nunito;
+  font-size: 21px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.13px;
+  color: #333333;
+  margin-left: 844px;
+  margin-top: 20px;
+}
+
+.sec #a {
+  width: 350px;
+  height: 48px;
+  border-radius: 5px;
+  box-sizing: border-box;
+  border: 0.5px;
+  text-align: left;
+  padding: 0 20px;
+  background-color: #f7f7f9;
+  margin-left: 844px;
+  margin-top: 10px;
+}
+
+.sec #a:focus {
+  background-color: lightblue;
+}
+
+.sec .Your-legal-name-or-c {
+  width: 190px;
+  height: 5px;
+  opacity: 0.71;
+  font-family: Nunito;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.07px;
+  color: #818181;
+  margin-top: 2px;
+}
+
+.sec .Your-personal-ID-or {
+  width: 323px;
+  height: 16px;
+  opacity: 0.71;
+  font-family: Nunito;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.07px;
+  color: #818181;
+  margin-top: 2px;
+}
+
+.sec #btn {
+  width: 350px;
+  height: 48px;
+  border-radius: 5px;
+  background: linear-gradient(#ff8960, #ff62a5);
+  border: none;
+  margin-left: 844px;
+  margin-top: 50px;
+  font-size: 15px;
+}
+
+.sec #thanks {
+  width: 234px;
+  height: 50px;
+  font-family: Nunito;
+  font-size: 48px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.3px;
+  color: #333333;
+  margin-top: 248px;
+}
